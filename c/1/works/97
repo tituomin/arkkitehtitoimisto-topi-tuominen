@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Turvakoti Kontula</title>
+  <link data-turbolinks-track="true" href="../../../assets/application-4c4e167bd3f8f372b0dd7b35d6d4684e.css" media="all" rel="stylesheet" />
+
+
+  <script data-turbolinks-track="true" src="../../../assets/application-bba8cfe122e8b1611b142c3875f9b93b.js"></script>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="weABfVVSsGDKt6LuGTTaynVEqtQTFbygp2hU+XtAEEw=" name="csrf-token" />
+
+</head>
+
+<body>
+
+<div id="meta-wrapper">
+<div id="wrapper" class="wrapper">
+
+<p id="notice"></p>
+<p class="alert"></p>
+<h1 class="title">Turvakoti Kontula</h1>
+
+<h2>Pääkaupungin Turvakoti ry (KOy Kilpolantie 2)
+</h2>
+
+  <p class="subsubtitle">Archivolta 2004</p>
+
+<div class="full-width-content">
+    
+</div>
+
+
+<div class="column column-left">
+
+
+<a href="../../../index.html">Etusivulle</a>
+<br/>
+    <div></div>
+<p class="description">Kolmikerroksinen 19 asunnon asuinrakennus osoitteessa
+<br />Kilpolantie 2, 00940 Helsinki
+<br />kerrosala n1400m²
+<br />			
+<br />Suunnittelutyö Archivoltassa, yhdessä projektiarkkitehti Simo Halkolan kanssa.</p>
+<div class="assets">
+        
+
+<div class="asset" id="asset-0">
+    <img src="https://farm4.staticflickr.com/3738/10226756563_398d85a753_h.jpg" width="1200" height="1600"/>
+</div>
+
+        
+
+<div class="asset" id="asset-1">
+    <img src="https://farm4.staticflickr.com/3716/10226765993_8b0492f787_h.jpg" width="1200" height="1600"/>
+</div>
+
+        
+
+<div class="asset" id="asset-2">
+    <img src="https://farm6.staticflickr.com/5501/10226689375_ff1f9be630_h.jpg" width="1200" height="1600"/>
+</div>
+
+        
+
+<div class="asset" id="asset-3">
+    <img src="https://farm8.staticflickr.com/7365/10226692246_e4d8fe582e_b.jpg" width="1024" height="1015"/>
+</div>
+
+        
+
+<div class="asset" id="asset-4">
+    <img src="https://farm4.staticflickr.com/3801/10226705766_014fc7ea1e_b.jpg" width="1024" height="997"/>
+</div>
+
+        
+
+<div class="asset" id="asset-5">
+    <img src="https://farm3.staticflickr.com/2875/10226667175_14e585475f_b.jpg" width="1024" height="685"/>
+</div>
+
+</div>
+
+</div>
+
+
+<div class="clear"></div>
+
+
+<div class="clear"></div>
+
+</div>
+</div>
+
+    <div class="footer">
+        <div class="wrapper">
+            <div class="column column-left editable">
+                    
+                    <div>Arkkitehtitoimisto Topi Tuominen Oy
+<br />Archivolta Oy</div>
+                    <div>Alppikatu 11A75</div>
+                    00530
+                    Helsinki 
+                    <br />
+                    p 091356980  0400503925
+                    <br />
+                    arkkitehtitoimisto@topituominen.fi
+            </div>
+            <div class="column column-right">
+                <div>
+                <a href="../../../index.html">Etusivulle</a>
+                </div>
+                <div>
+                <a href="../description">Yritystiedot ja referenssit</a>
+                </div>
+                <div class="tags">
+                    <div class="tag all">Kohteita</div>
+                    <div class="tag"><a href="https://www.topituominen.fi/c/1/works">Kohteita yleisesti</a></div>
+                            <div class="tag"><a href="../ULLAKKOASUNNOT.html">Ullakkoasunnot</a></div>
+                            <div class="tag"><a href="../asuinrakennuksia.html">Asuinrakennuksia</a></div>
+                            <div class="tag"><a href="../asuntoja.html">Asuntoja</a></div>
+                            <div class="tag"><a href="../grafiikkaa.html">Grafiikkaa</a></div>
+                            <div class="tag"><a href="../historiallisia+rakennuksia.html">Historiallisia rakennuksia</a></div>
+                            <div class="tag"><a href="../huviloita.html">Huviloita</a></div>
+                            <div class="tag"><a href="../julkisia+rakennuksia.html">Julkisia rakennuksia</a></div>
+                            <div class="tag"><a href="../kioskeja.html">Kioskeja</a></div>
+                            <div class="tag"><a href="../korjausrakentaminen.html">Korjausrakentaminen</a></div>
+                            <div class="tag"><a href="../satamarakennuksia.html">Satamarakennuksia</a></div>
+                            <div class="tag"><a href="../täydennysrakentaminen.html">Täydennysrakentaminen</a></div>
+                            <div class="tag"><a href="../uudisrakennuksia.html">Uudisrakennuksia</a></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</body>
+  <script>
+//<![CDATA[
+
+      document.body._trans = "translation missing: fi.js.works";
+
+//]]>
+</script>
+  <script>
+//<![CDATA[
+
+//]]>
+</script>
+</html>
